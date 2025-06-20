@@ -1,1 +1,1 @@
-# Applications-to-heaalthdata-analytics-5771
+# Applications-to-healthdata-analytics-5771
